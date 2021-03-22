@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>AdminLogin</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>5e65b239-1641-4768-b513-abccb1f558d6</testSuiteGuid>
+   <testCaseLink>
+      <guid>64e906fe-a486-4ac6-8330-363af4003330</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AdminAutomation/Admin/AdminLogin</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>261e9431-718c-4840-843b-12c0a3c86a3d</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/AdminLogin/LoginCredentials</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>261e9431-718c-4840-843b-12c0a3c86a3d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>37601d40-4c85-42fe-ab86-521ad3fc4378</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>261e9431-718c-4840-843b-12c0a3c86a3d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>3ec9a555-98fe-4407-905f-7ad3c57af3a1</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Connect IPS Transaction_eb-checkbox-icon</name>
+   <tag></tag>
+   <elementGuidId>c7bada92-2ff1-4f2b-8e3b-ef5e92cf9127</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[9]/div/div/span/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>eb-checkbox-icon</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;main-wrapper ng-scope&quot;]/main[1]/section[@class=&quot;main-content row ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;content ng-scope&quot;]/form[@class=&quot;regular-form regular-form--alt ng-pristine ng-scope ng-valid-maxlength ng-valid ng-valid-required&quot;]/div[@class=&quot;box&quot;]/section[@class=&quot;box-content&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;column large-8 large-offset-2&quot;]/div[@class=&quot;row form-group&quot;]/div[@class=&quot;column large-7&quot;]/div[@class=&quot;custom-checkbox ng-isolate-scope&quot;]/ul[@class=&quot;ivh-treeview&quot;]/li[@class=&quot;ivh-treeview-node ng-scope ng-isolate-scope ivh-treeview-node-leaf&quot;]/div[@class=&quot;ivh-treeview-node-content ng-scope&quot;]/div[@class=&quot;treeview-group&quot;]/span[@class=&quot;ivh-treeview-checkbox-wrapper ng-scope&quot;]/label[@class=&quot;eb-checkbox-label ng-isolate-scope&quot;]/span[@class=&quot;eb-checkbox-icon&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/div/div/span/label/span</value>
+   </webElementXpaths>
+</WebElementEntity>

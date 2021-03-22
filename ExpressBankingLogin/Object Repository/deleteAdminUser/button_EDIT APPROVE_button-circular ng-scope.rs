@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_EDIT APPROVE_button-circular ng-scope</name>
+   <tag></tag>
+   <elementGuidId>22da7448-55a3-41d4-9a5d-20394811a420</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[116]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Delete</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>subChild.name === 'Delete Admin'</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>adminManageCtrl.removeAdmin(admin.id); $event.stopPropagation();</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-circular ng-scope</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;whatinput-types-initial whatinput-types-mouse&quot;]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;default ng-scope&quot;]/div[@class=&quot;main-wrapper ng-scope&quot;]/main[@class=&quot;main&quot;]/section[@class=&quot;main-contents&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;content ng-scope&quot;]/div[@class=&quot;content ng-scope&quot;]/div[@class=&quot;search-content&quot;]/section[2]/div[@class=&quot;table-container&quot;]/div[@class=&quot;eb-table&quot;]/div[@class=&quot;eb-tbody&quot;]/div[@class=&quot;eb-tr ng-scope&quot;]/div[@class=&quot;eb-td&quot;]/div[@class=&quot;action-button-group&quot;]/span[@class=&quot;hidden-button-group&quot;]/span[@class=&quot;ng-scope&quot;]/span[@class=&quot;ng-scope&quot;]/span[@class=&quot;ng-scope&quot;]/span[@class=&quot;ng-scope&quot;]/button[@class=&quot;button-circular ng-scope&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[116]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TESTADMINN'])[2]/following::button[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Design Test'])[2]/preceding::button[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='designtest'])[1]/preceding::button[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[19]/div[6]/div/span/span[2]/span/span/span[2]/button</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Proceed - Copy</name>
+   <tag></tag>
+   <elementGuidId>dcc60884-0caf-4bb1-8b07-c424dbfd09e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/main/section/div/div/div/section/div[2]/div/form[2]/section/div/div/div/div[9]/div[4]/div/button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.column.medium-6 > button.button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>detailForm.$invalid</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Proceed</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;whatinput-types-initial whatinput-types-mouse&quot;]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;default ng-scope&quot;]/div[@class=&quot;main-wrapper ng-scope&quot;]/main[@class=&quot;main&quot;]/section[@class=&quot;main-contents&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;content ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/section[@class=&quot;content-box&quot;]/div[@class=&quot;eb-tabs ng-isolate-scope&quot;]/div[@class=&quot;steps ng-scope&quot;]/form[@class=&quot;regular-form ng-scope ng-valid-maxlength ng-dirty ng-valid-parse ng-valid-server ng-valid-minlength ng-valid-required ng-valid-email ng-valid ng-valid-pattern&quot;]/section[@class=&quot;step ng-isolate-scope current&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;row expanded ng-scope&quot;]/div[@class=&quot;column large-11 large-offset-1&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;column medium-6&quot;]/button[@class=&quot;button&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secondary Address'])[1]/following::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary Address'])[1]/following::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set Up the new customer'])[1]/preceding::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please set up the log in credentials and services for the new customer'])[1]/preceding::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Proceed']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[2]/button</value>
+   </webElementXpaths>
+</WebElementEntity>
